@@ -56,14 +56,14 @@ Android
  
  ## Recursos:
  
- - [Padrão MVVM](sem framework)
+ - Padrão MVVM sem Framework
  - [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView)</br>
  - [Xamarin.Essentials](https://github.com/xamarin/Essentials) by Microsoft 
- - [CircleImage] https://github.com/jamesmontemagno/ImageCirclePlugin
+ - [CircleImage](https://github.com/jamesmontemagno/ImageCirclePlugin)
  
  ## Para mais informações
  
- Código fonte: [https://github.com/Amaro96/MbongoUIApp](https://github.com/Amaro96/MbongoUIApp)
+ Código fonte: [https://github.com/Amaro96/MbongoUIApp](https://github.com/Amaro96/MbongoUIApp)</br>
  Autor: [Amaro Manungu](https://github.com/Amaro96)
 
 
