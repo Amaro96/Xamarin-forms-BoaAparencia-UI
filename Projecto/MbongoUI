@@ -1,4 +1,4 @@
-public class AmaroManungu 
+public class MbongoUI 
 {
     public string PrimeiroNome => "Amaro";
     public string SegundoNome => "Manungu";
